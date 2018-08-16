@@ -1,5 +1,7 @@
 <template>
   <div class="hello">
+    <router-link to="/login">Foo</router-link>
+    <router-link to="/register">Foo 2</router-link>
     <h1>{{ msg }}</h1>
     <p>
       For guide and recipes on how to configure / customize this project,<br>
